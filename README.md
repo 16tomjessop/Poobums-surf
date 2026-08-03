@@ -1,6 +1,6 @@
 # KZN Surf — South Coast & Durban surf forecast
 
-### 🏄 **[Open the live app → 16tomjessop.github.io/surf-journal](https://16tomjessop.github.io/surf-journal/)**
+### 🏄 **[Open the live app → 16tomjessop.github.io/Poobums-surf](https://16tomjessop.github.io/Poobums-surf/)**
 
 Works in any browser, on phone or desktop. On iPhone, tap **Share → Add to Home Screen** to use it like an app.
 
